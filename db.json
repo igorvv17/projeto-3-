@@ -1,0 +1,116 @@
+{
+    "Agulhas":[
+        {
+            "id": 1,
+            "nome": "RL-ROUNND LINER",
+            "descricao": "PARA LINHA + SE ACINHAM EM CIRCULO + TEM FORMA DE FUNIL  + SENDO BEM FINA NA PONTA",
+            "preco": 21.90
+        },
+        {
+            "id": 2,
+            "nome": "RS-ROUND SHADER",
+            "descricao": "PARA SOMBRAS + LINHAS GROSSAS + PREENCHIMENTO ONDE É COMPLICADO + SUA FROMA É TUBAL",
+            "preco": 16.50
+        },
+        {
+            "id": 3,
+            "nome": "MAGNUM WEAVED (INTERCALADA)",
+            "descricao": "DUAS FILEIRAS DE AGULHAS PARALELAS E SEPARADAS + UMA FILEIRA COM UMA AGULHA A MAIS QUE A OUTRA + SERVE TANTO PARA PREENCHIMENTO QUANTO A SOMBRA",
+            "preco": 43.00
+        },
+        {
+            "id": 4, 
+            "nome": "MAGNUM STACKED (EMPILHADA)",
+            "descricao": "FORMADA POR DUAS FILEIRAS DE AGULHAS PARALELAS E JUNTAS + ONDE UMA FILEIRA EM UMA AGULHA A MAIS QUE A OUTRA + PODEM SER USADAS PARA MESCLAR CORES + SOMBRA E PREENCHIMENTO EM ARÉAS MAIS COMPLEXAS",
+            "preco": 32.00
+        }
+    ],
+
+    "Luvas":[
+
+            {
+                "id": 1,
+                "nome": "NITRÍLICA",
+                "descricao": "PRETA + DESCARTAVÉL",
+                "preco": 19.98
+            },
+            {
+                "id": 2,
+                "nome": "LATEX",
+                "descricao": "BRANCA + DESCARTAVEL",
+                "preco": 19.97
+            },
+            {
+                "id": 3,
+                "nome": "UNIGLOVES PINK",
+                "descricao": "DESCARTAVEL + ROSA",
+                "preco": 30.00
+            },
+            {
+                "id": 4,
+                "nome": "DESCARPACK",
+                "descricao": "NTRILICA + AZUL + DESCARTAVEL",
+                "preco": 13.56
+            }
+    
+    ],
+    "tatuagens":[
+        {
+            "id": 1,
+            "nome": "TRIBAL",
+            "descricao": "ATÉ 50CM + SOMBREAMENTO COMPLETO + APENAS UMA SEÇÃO",
+            "preco": 150.00
+        },
+        {
+            "id": 2,
+            "nome": "SIMPLES",
+            "descricao": "ATÉ 30CM + APENAS TRAÇO",
+            "preco": 70.00
+        },
+        {
+            "id": 3,
+            "nome": "MAORI",
+            "descricao": "PREFERENCIA EM QUALQUER LUGAR DO CORPO + ACIMA DE 30CM + ATÉ DUAS SEÇÕES",
+            "preco": 250.00   
+        },
+        {
+            "id": 4,
+            "nome": "REALISMO",
+            "descricao": "ROSTO FAMILIAR + ACIMA DE 30CM + ATÉ DUAS SEÇÕES",
+            "preco": 1000.00
+        }
+    
+        
+
+    ],
+    "tintas":[
+        
+        {
+            "id": 1,
+            "nome": "ULTRA LINER BLACK",
+            "descricao": "30ML PRETO ULTRA + ELECTRIC INK",
+            "preco": 37.00
+        },
+        {
+            "id": 2,
+            "nome": "GHOSHT WHITE EG",
+            "descricao": "30ML BRANCO + ELECTRIC INK ",
+            "preco": 34.00
+        },
+        {
+            "id": 3,
+            "nome": "VERMELHO FERRARI",
+            "descricao": "30ML ELETRIC INK",
+            "preco": 34.00
+        },
+        {
+            "id":4, 
+            "nome":"AZUL MEDIO",
+            "descricao": "30ML ELETRIC INK",
+            "preco": 34.00
+        }
+    ]
+
+    
+
+}
